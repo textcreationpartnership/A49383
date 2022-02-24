@@ -1,0 +1,446 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The exceeding abundant grace of God displayed in the conversion of William Gymer a penitent malefactor and murderer, who was executed on the Castle-Hill in Norwich, Sept. 4. 1696. Written by John Lucas minister of the Gospel.</title>
+            <author>Lucas, John, 1624 or 5-1703.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 64 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49383</idno>
+            <idno type="STC">Wing L3393</idno>
+            <idno type="STC">ESTC R217744</idno>
+            <idno type="EEBO-CITATION">99829393</idno>
+            <idno type="PROQUEST">99829393</idno>
+            <idno type="VID">33832</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49383)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33832)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1993:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The exceeding abundant grace of God displayed in the conversion of William Gymer a penitent malefactor and murderer, who was executed on the Castle-Hill in Norwich, Sept. 4. 1696. Written by John Lucas minister of the Gospel.</title>
+                  <author>Lucas, John, 1624 or 5-1703.</author>
+               </titleStmt>
+               <extent>[6], 27, [1]+ p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Tho. Snowden, for Edward Giles bookseller near the Market-place,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title reads: Repentance unto life granted to a malefactor guilty of death.</note>
+                  <note>With final advertisement pages.</note>
+                  <note>Imperfect: appears to lack page of advertisement at end.</note>
+                  <note>Reproduction of the original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Gymer, William, d. 1696 --  Early works to 1800.</term>
+               <term>Grace (Theology) --  Early works to 1800.</term>
+               <term>Conversion --  Early works to 1800.</term>
+               <term>Last words --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33832:1" rendition="simple:additions"/>
+            <p>The Exceeding Abundant Grace of God, Diſplayed in the CONVERSION OF William Gymer A Penitent Malefactor and Murderer, Who was Executed on the <hi>Caſtle-Hill</hi> in <hi>Norwich, Sept.</hi> 4. 1696.</p>
+            <p>Written by <hi>John Lucas</hi> Miniſter of the Goſpel.</p>
+            <q>
+               <p>VVho was before a Blaſphemer, and a Perſecutor, and Injurious. But I obtained mercy, <hi>&amp;c.</hi> And the Grace of our Lord was exceeding abundant,
+<bibl>
+                     <hi>1 Tim. 1.13, 14.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <q>
+               <p>Nor Thieves, nor Covetous, <hi>&amp;c.</hi> ſhall inherit the Kingdom of God. And ſuch were ſome of you: but ye are waſhed, but ye are ſanctified, but ye are Juſtified in the Name of the Lord Jeſus, and by the Spirit of God,
+<bibl>
+                     <hi>1 Cor. 6.10, 11.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>Tho. Snowden,</hi> for <hi>Edward Giles</hi> Bookſeller in <hi>Norwich</hi> near the Market-place. 1696.</p>
+         </div>
+         <div type="epistle_to_the_reader">
+            <pb facs="tcp:33832:2" rendition="simple:additions"/>
+            <pb facs="tcp:33832:2"/>
+            <head>THE EPISTLE TO THE READER.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Here preſent to thy view one, who was like a little Candle going out with a ſtinking ſnuff, but in a little time lighted again by the Beams of the Sun of Righteouſneſs, and ſet upon a Hill: He had been as a Bryer and Thorn that wounded his Friend to death, and yet became a living Branch of the true Vine: He was like a Worm that had killed another of its own kind, and thereupon was trodden to death by (the Devil) that devouring Lion; and yet was reſtored to life by his vertue, who was as a Worm deſpiſed and rejected of men, <hi>Pſal. 22.6. Iſa. 53.3.</hi> Of ſuch a one I am writing, who according to the judgment of Charity proved a ſincere Convert. Indeed ſome bid fairer for our Charity than others, and in my Opinion he did ſo.</p>
+            <p>Reader, come and ſee how he comes to himſelf, and then wri<g ref="char:EOLhyphen"/>ting to his Wife, he tells her <hi>[This is to let you know, that I did commit the Crime: This I have openly confeſt; and ſince that I am much more at eaſe in my mind; and for what I have done, I am heartily ſorry, and earneſtly beg
+<pb facs="tcp:33832:3"/>pardon at the hands of God Almighty.]</hi> While <hi>David</hi> kept ſilence, the hand of God was heavy upon him, but in ac<g ref="char:EOLhyphen"/>knowledging his iniquity he found relief, <hi>Pſal. 32.3, 4, 5.</hi>
+            </p>
+            <p>He diſcovered his diſeaſe, and it much tended to its cure: Being awakened with the ſenſe of his guilt, he cries unto God, and calls upon his Wife and others to do the like, [For, ſaith he, <hi>God is able, yea willing to hear, but it muſt not be bare calling, but that which is in ſincerity of heart that will do.</hi>]</p>
+            <p>Having obtained hope of pardon and life, he deſires to die and lay down his life as a debt to Juſtice, and yet he would have his Friends aſſured, that he deſpaired not of God's Mercy, but did put his whole truſt and confidence in him, as knowing there was no pardon for him, but through Jeſus Chriſt [<hi>I only,</hi> ſaith he, <hi>rely on the Merit of Chriſt, hoping that he, who invited thoſe great Sinners, who by their wicked hands crucified his dear Son, to repent and live, will of his mer<g ref="char:EOLhyphen"/>cy look upon my dejected Soul, which I lift up with a humble confidence in him, that he will not deny me the ſame mercy.</hi>] He diſcourſed of death as his familiar Acquain<g ref="char:EOLhyphen"/>tance with his Friends (in his writing to his Wife) and tho' ſuch Diſcourſe might be unpleaſing to ſome, and put them into a cold ſweat, making them tremble, as <hi>Pelſhazzar</hi> did at the writing on the Plaiſter of the Wall in his Palace;
+<note place="margin">Dan. 5.5, 6.</note> yet his hearty deſire was with tears in his eyes (if you will believe him) that his Relations would conſider, how their lives were like a Shadow, and aſſure themſelves they had no greater work to do than to prepare for death.</p>
+            <p>He lookt upon death as the end of miſery to the faithful and beginning of bleſſedneſs, but to the ſecure and careleſs as the end of their pleaſure and beginning of eternal pain.</p>
+            <p>Of ſuch like things he writes (which I have ſeen and read in his Letters to his Wife) and tells her, that he writ not any thing to her as a ceremony, but out of an earneſt Zeal and well-wiſhing to her Souls welfare and happineſs.</p>
+            <pb facs="tcp:33832:3"/>
+            <p n="1">
+               <hi>(1.)</hi> His Soul being healed by pardoning Grace, he admires the Phyſicians mercy: we ought ſaith he above all things to admire the infinite goodneſs of God, who hath ſet forth his Son a propitiation through Faith in his blood, <hi>Rom. 3.25.</hi> We cannot often enough make mention of his great kindneſs, who gave himſelf as a free-will-offering for our ſins.</p>
+            <p n="2">
+               <hi>(2.)</hi> He prizes the precious promiſes, which he termeth <hi>[Wonderful]</hi> ſuch as theſe <hi>[God is our refuge and ſtrength, a very preſent help in trouble,</hi> Pſal. <hi>46.1. and they that know thy Name will truſt in thee: for thou, Lord, haſt not forſaken them that ſeek thee,</hi> Pſal. <hi>9 10.</hi>] and others: Theſe were the Treaſure he laid up and took comfort in.</p>
+            <p n="3">
+               <hi>(3.)</hi> He pants after a ſinleſs State, and longed to be with Chriſt in that better Country, and to live for ever with him.</p>
+            <p n="4">
+               <hi>(4)</hi> He was concerned for the Souls of others. In was his extreme grief (as he expreſſeth his mind) to hear how ſome of his Relations, who inſtead of being humbled under the great Judgment, that had befallen her (in his fall) were rather hardened: But he entreats them for God's ſake to look upon it as a warning from Heaven, not to preſume; for if God leave any of us to our ſelves, we are ſo prone to ſin, that we may ſoon fall into great Tranſgreſſions. He admoniſheth. He exhorts and prays for them, that they might not live any longer without Chriſt; and that the life they led in the Fleſh might be by Faith on the Son of God who loved us, and gave himſelf for us; the remembrance of which love (he adds) ſhould be moſt dear and precious to us, ſo as to ſet light by all wordly vanities: He prays that they might paſs their time here as it becomes thoſe, who expect ſhortly to give an account to him, who will Judge all Men according to their Works.</p>
+            <p>Thus he opened his heart, and ſhewed his good will, and thus he poured out his Soul in his requeſts to God for the good of their Souls, who were nearly related to him.</p>
+            <p>As to the Priſoners that lived with him, and Lodged with
+<pb facs="tcp:33832:4"/>him, he would Read to them, and Pray with them, and accor<g ref="char:EOLhyphen"/>ding to the gift he had received, he was willing to give them, and others that viſited him, his advice and caution againſt car<g ref="char:EOLhyphen"/>nal confidence, and yielding to the occaſions of ſin.</p>
+            <p>
+               <hi>Some of his laſt words at the place of Execution, were;</hi>
+            </p>
+            <q>[<hi>Gentlemen,</hi> You are come to ſee a poor Creature ſuffer; and I juſtly deſerve it. Oh! the Infinite Grace and Mercy of God towards me, that he did not immediately caſt me down to Hell, but gave me ſo long a ſpace of Repentance. Beware of the great evil of Sin; beware of Lying and Sabbath-break<g ref="char:EOLhyphen"/>ing, which ſins I believe were the Foundation of this my pre<g ref="char:EOLhyphen"/>ſent ſuffering. O! watch and pray, and do not purchaſe your Repentance at ſo dear a rate as I have done. And now Lord Jeſus receive my Soul, into thy hands I commit my Spirit, Lord Jeſus receive my Soul.]</q>
+            <p>Had I known beforehand this lot would have fallen on me to write theſe lines, I think I ſhould have been more concerned in the viſits I made to him to obſerve things more exactly, and ſet down paſſages material as they occurred, which muſt now be paſſed over in ſilence.</p>
+            <p>But, <hi>Reader,</hi> come and ſee, come and read with an honeſt mind and purpoſe, that little which is here preſented be<g ref="char:EOLhyphen"/>fore thee touching this Monument of Divine Judgment and Mercy; and the Lord help thee in truth (upon the whole) to ſay, <hi>[This ſight hath done my heart good]</hi> Thus prays he who deſires thy prayers, and is,</p>
+            <closer>
+               <signed>
+                  <hi>Thy Friend, and Souls well wiſher,</hi> John Lucas.</signed> 
+               <dateline>
+                  <date>
+                     <hi>Octob. 22d. 1696.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:33832:4"/>
+            <head>The exceeding abundant Grace of God diſplayed in the Converſion of <hi>William Gymer,</hi> a peni<g ref="char:EOLhyphen"/>tent Malefactor.</head>
+            <p>THE Grace and good will of God lays hold on the chief of Sinners: The Elect obtain it, the reſt are hardened; One is taken, the other left:
+<note place="margin">
+                  <hi>Luke</hi> 23.39, 40.</note> One of the Thieves on the Croſs rails on Chriſt, the heart of the other Relents; He acknowledgeth the Righ<g ref="char:EOLhyphen"/>teouſneſs of God in his ſufferings, and accepts of the pu<g ref="char:EOLhyphen"/>niſhment of his iniquity; and alſo reproves his Fellow-Malefactor for his hard ſpeeches (which as an ungodly ſinner he ſpake againſt the Lord Jeſus) and the want of the fear of the God, tho' under the ſame Condemnation.</p>
+            <p>This Grace exerted it ſelf in turning the heart of this great Offender,
+<note place="margin">
+                  <hi>ver.</hi> 42.</note> and made a gracious and wonderful change in him, renewing a right Spirit in him. He now at laſt unfeignedly and ſincerely believeth in Jeſus Chriſt. He calleth him Lord, and owneth his Divine Nature, who as Man was ſuffering pain, and ſhame, and the curſe on the Croſs for our ſake: He looks upon him as the Eternal Son of God, and heir of that Kingdom of Glory which he believed his Lord was going to: He prays to be re<g ref="char:EOLhyphen"/>membred by him when he came into his Kingdom, and accounted his remembrance of him was ſufficient to make him a happy man; <hi>q. d. Remember me, O Lord,
+<note place="margin">
+                     <hi>Pſ.</hi> 106.4, 5.</note> with the favour that thou beareſt unto thy people. O viſit me with thy Salvation; that I may ſee thee good of thy choſen; that I may rejoyce in the gladneſs of thy Nation; that I may glory with thine Inheritance.</hi>
+            </p>
+            <pb n="2" facs="tcp:33832:5"/>
+            <p>
+               <hi>Leſus,</hi> who turned as it were a deaf ear to the Blaſ<g ref="char:EOLhyphen"/>phemies of his Enemies, to the deriſion of the Rulers and Souldiers mocking, graciouſly inclines to hearken to this poor Malefactor's requeſt,
+<note place="margin">
+                  <hi>ver.</hi> 43.</note> and gives him this Anſwer, <hi>Verily, I ſay unto thee, this day ſhalt thou be with me in Para<g ref="char:EOLhyphen"/>dice; q. d.</hi> Seeing thou haſt owned and confeſſed me in my ſuffering-ſtate, bleſſed art thou; <hi>Fleſh and blood hath not revealed this unto thee but my Father, who is in Heaven:</hi> Fear not, thy Soul ſhall go from hence with me to the City of the living God, the Heavenly <hi>Jeruſalem,</hi> and to an innumerable Company of Angels, and to the Spirits of Juſt men made perfect, and dwell with me in my King<g ref="char:EOLhyphen"/>dom for ever.</p>
+            <p n="1">1. 'Tis certain then, that the Soul of Man is immortal; It dyeth not with the body, but paſſeth into another world, and there abideth either in a ſtate of miſery or a ſtate of bleſſedneſs until the Reſurrection-day, when all ſhall be awakned and come forth, ſome to everlaſting Life, and ſome to Shame and everlaſting Contempt.</p>
+            <p n="2">2. And 'tis of no leſs certainty, that a Penitent Male<g ref="char:EOLhyphen"/>factor's Soul may go from a Priſon or a Gallows to Para<g ref="char:EOLhyphen"/>dice or Heaven; as well as the Soul of any other perſon that repenteth.</p>
+            <p>The Mercy of God in the Salvation of any is exceeding rich and free: the merit of our Lord and Saviour is al<g ref="char:EOLhyphen"/>ſufficient and of large extent; and the offer of Grace is made to all.
+<note place="margin">
+                  <hi>Iſa.</hi> 55.1. <hi>Rev.</hi> 22.17. <hi>John</hi> 6.37. <hi>Rev.</hi> 1.5.6.</note> Every one that thirſteth is invited to come to the waters. Whoſoever will let him take of the water of life freely. And him that cometh, Chriſt will in no wiſe caſt out. O the height and depth, the breadth and length of the love of God in Chriſt Jeſus, who loved us and waſhed us from our Sins in his own blood: unto him be glory and dominion for ever, <hi>Amen.</hi>
+            </p>
+            <p>An eminent inſtance and Monument of Divine Grace, it pleaſed God to ſet up among us lately in <hi>Norwich</hi> Caſtle,
+<pb n="3" facs="tcp:33832:5"/>concerning which take this relation following, which for ſubſtance according to what I have ſeen and heard, I ſet down as true.</p>
+            <p>One <hi>William Gymer,</hi>
+               <note place="margin">
+                  <hi>Sept.</hi> 4th. 1696.</note> who lately was Executed on the Caſtle-Hill for Robbery and Murder, lived formerly with one Mr. <hi>Bucknam</hi> a <hi>Tanner</hi> of <hi>Hadſco</hi> in the County of <hi>Norfolk,</hi> but afterwards being married, he dwelt with his Father-in-law at <hi>Alby</hi> not far from <hi>Hadſco.</hi>
+               <note n="*" place="margin">Abrve two miles.</note>
+            </p>
+            <p>In one of his Papers which he left, he tells us, that the courſe of his life was led in great ignorance; that about 7 years ago he almoſt doubted whether there were a God or no; but afterwards walking abroad, by looking on the Herbs of the Field, he was convinced of his <hi>Atheiſm</hi> and Fol<g ref="char:EOLhyphen"/>ly, and was heartily ſorry for his former ignorance; upon this Conviction he endeavoured (as he writes) to ſeek after God, and did heartily beg of God, to enable him by his Spirit; and ſo he did continue (as he ſaith) in an humble frame, till about a year and half before he com<g ref="char:EOLhyphen"/>mitted thoſe great Crimes, which brought him to de<g ref="char:EOLhyphen"/>ſtruction, for then he gave himſelf up to the Sin of <hi>Lying,</hi> and ſo ran on in that way, at times (his Conſcience accu<g ref="char:EOLhyphen"/>ſing him) he was grieved and troubled, yet he ſtill conti<g ref="char:EOLhyphen"/>nued in his courſe of <hi>Lying</hi> to blind the world (<hi>i. e.</hi> to keep others in ignorance) of ſome other Sins he was guilty of (ſo I underſtand by his writing) He was convinced of the wickedneſs of his way, and daily prayed to God to forgive him thoſe ſins and all other.</p>
+            <p>But the day before (ſaith he,) I committed theſe crimes (<hi>i. e.</hi> Robbery and Murder) I was boaſting in my ſelf, and thought my ſelf in as happy a condition as any man in my Station, and it was not in my thoughts to do any ſuch wick<g ref="char:EOLhyphen"/>edneſs half an hour before I did it.</p>
+            <p>In the year 1695 in or near the time of Harveſt, on a <hi>Lord</hi>'s <hi>day</hi> after morning he went to his M. <hi>Bucknam</hi>'s houſe
+<pb n="4" facs="tcp:33832:6"/>with an intent to borrow 40 ſhillings of one of the Ser<g ref="char:EOLhyphen"/>vants, concerning which he had ſpoken to him ſome time before. But all being gone to Church excepting the maid ſervant, he told her the Swine were got out of the yard, hereupon the maid fearing leſt they ſhould get into the ſtanding Corn, ſhe ſoon ran out, and having a knife in her hand (which ſhe had been making uſe of) ſhe ſtuck it on the ſide of her boſom, and haſtily went into the Corn-cloſe near the Houſe. <hi>Gymer</hi> being now left alone, <hi>Satan</hi> put it into his heart to rob his Maſter, and his evil heart ſug<g ref="char:EOLhyphen"/>geſted to him what need he borrow money, when he might get it without borrowing? This motion at firſt put him into a trembling, nevertheleſs knowing where his Maſters Caſh uſed to lie, he went to the place, but yet came back again before he had taken any, as doubting what to do: But the Tempter putting him forward, he went to the place again, where having broke open a lock, he took out ſome bags of money, which afterwards he hid in the ground, not far from the Houſe. Having now yielded to the Devil thus far, he ſtill puſheth him forward, and tempts him to conceive miſchief againſt the poor Maid and murder her, that in ſo doing his Robbery might be concealed. Then going forth with a bloody mind he finds the Maid in the Corn-cloſe, and coming to her, trips up her heels, (ſhe ſaying no more, but what do you make account to do with me?) and forthwith, with her own knife cuts her throat, and then throws away the knife.</p>
+            <p>Having committed this barbarous cruelty, he was ſoon under ſuch horrour, that he thought to have done the like to himſelf had the knife been in his hand. I thought, ſaith he, I could have laid violent hands upon my ſelf: praiſed be God, he did reſtrain me from ſo doing: But I continued (as he writes) under ſo great terrour, that I
+<pb n="5" facs="tcp:33832:6"/>thought would have thanked any man to have knockt me on the head, and thus it was with me till I came to Priſon. Afterwards going homeward (by the way) he cut his Fingers on purpoſe that the blood which ſtain'd his clothes might be thought to proceed from thence.</p>
+            <p>The report of this murder ſoon flying abroad of ſome, his relations deſired him to go to his Maſters-Houſe, and ſee how things were: He pretends a willingneſs to go and make enquiry, but having gone a little way he turns aſide, went not thither at all. His not going cauſed ſuſpi<g ref="char:EOLhyphen"/>cion, upon which ſome ten days after he was apprehended and carried before 2 Juſtices of Peace
+<note n="*" place="margin">
+                  <hi>Juſtice</hi> Matthews, <hi>and then Sir</hi> Nevil Catlin.</note>, who after exami<g ref="char:EOLhyphen"/>nation made his <hi>Mittimus</hi> and ſent him to <hi>Norwich Caſtle.</hi>
+            </p>
+            <p>Here his ſorrow for a time was ſomewhat allayed; yet he repented and bewail'd his Sins in ſecret to God, tho' he was unwilling to diſcover them to the world: Here being no evil company, he did as others did, altho' his Conſcience troubled him for ſo doing. In this frame he continued till the time of his eſcape with another Priſo<g ref="char:EOLhyphen"/>ner to <hi>Yarmouth.</hi>
+            </p>
+            <p>This Priſoner being minded to get away, tells <hi>Gymer</hi> of two men that were to aſſiſt him, ſo that he alſo was deſi<g ref="char:EOLhyphen"/>rous to go with him. <hi>I did,</hi> ſaith he, <hi>Promiſe my ſelf, if I got away and were not taken again, I would ſpend the reſt of my days in ſome Forreign place, and there work for my Li<g ref="char:EOLhyphen"/>ving, and bewail my ſelf for my Sins; But if I were taken, I was reſolved to confeſs my Sins to the World, and take the ſhame belonging to me.</hi>
+            </p>
+            <p>
+               <hi>Gymer</hi> and his Fellow-Priſoner upon requeſt obtained the liberty of going to the <hi>Jailors-Houſe</hi> to ſpend ſome mony in Drink, but upon their return to the Caſtle, (it being in the evening ſomewhat dark) they both ſlipt down the Hill undiſcerned, deceiving their Keeper that went before, and ſo travelled to <hi>Yarmouth.</hi>
+            </p>
+            <pb n="6" facs="tcp:33832:7"/>
+            <p>But being ſoon purſued, they were both there apprehen<g ref="char:EOLhyphen"/>ded: his Heart now ſmites him and unlooſeth his tongue freely to confeſs his Sins of <hi>Lying,</hi> and <hi>Swearing,</hi> and the <hi>Theft,</hi> and <hi>Murder,</hi> he had committed: Theſe he oft ac<g ref="char:EOLhyphen"/>knowledged to Miniſters, and others that viſited him, and being arraigned the laſt Aſſizes in Court, he pleaded guil<g ref="char:EOLhyphen"/>ty three times one after another. His Conſcience being a<g ref="char:EOLhyphen"/>wakened and wounded, he hath given Glory to God in confeſſing his wickedneſs, and ever ſince hath been diligent in ſeeking the Lord for the life of his Soul, and greatly deſirous of the Prayers and Aſſiſtance of Miniſters and of all ſerious and Pious Chriſtians. His ingenuity manifeſt<g ref="char:EOLhyphen"/>ed in his frequent Confeſſions, his humble and meek be<g ref="char:EOLhyphen"/>haviour in the place and condition, his iniquities had brought him into, his patient accepting of the puniſh<g ref="char:EOLhyphen"/>ment deſerved; his readineſs to hearken to, and follow good Counſel, and the diligence he gave both day and night in making his Calling and Election ſure, were re<g ref="char:EOLhyphen"/>markable, and gained him ſo great an intereſt in the pray<g ref="char:EOLhyphen"/>ers and affections of all ſerious Chriſtians (of what perſua<g ref="char:EOLhyphen"/>ſion ſoever) who had any acquaintance with him, or did believe the good report that was given of him, as is not ordinary. By theſe and ſuch like good fruit he obtain<g ref="char:EOLhyphen"/>ed a good report, and it could not well be judged other<g ref="char:EOLhyphen"/>wiſe, but that the Tree muſt be made good, which brought forth ſuch good fruit.</p>
+            <p>After his apprehenſion at <hi>Yarmouth,</hi> and being brought again to priſon, the poor Prodigal came to himſelf; And when I began (ſaith he in writing) to conſider of my ſins, and that (for ought I knew) I had ſent a Soul to Hell, the thoughts thereof made me tremble, and almoſt con<g ref="char:EOLhyphen"/>clude, there could be no mercy for ſo vile a wretch. And in this condition, I was for ſome time. But in reading the Scripture, I found a place where 'tis ſaid, [<hi>Come now
+<pb n="7" facs="tcp:33832:7"/>let us reaſon together, ſaith the Lord, though your ſins be as ſcarlet, they ſhall be white as ſnow, though they be red as crimſon, they ſhall be as wooll,</hi> Iſa. 1.18.] Theſe words ſo affected my heart, that I cannot expreſs the comfort I found by them. But ſome time after, I fell into doubts again, becauſe I was in Fetters, God would not hear my cries in this place: But reading of <hi>Manaſſeh</hi>'s finding mercy in Pr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſon,
+<note place="margin">2 <hi>Cron.</hi> 33.12, 13.</note> after he had ſpent a great deal of time in wickedneſs, and had committed great ſins: This put me in hope, it was not too late for me: And that comfortable ſaying of Chriſt, [<hi>Come to me all ye that labour and are heavy laden, and I will give you reſt,</hi> Matth. 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.28.] And many places in <hi>Ezek.</hi> 18. have been my comfort. By theſe promiſes I found, there was a door of hope open for me, which brought me to ſo great a change in the thoughts of my heart, that I have thought I would not exchange them for the whole World, and ſo I continued in ſuch a delightful frame, that I thought my heart was almoſt raviſhed. But at times my affections grew cold again, which I have endeavoured to raiſe again.</p>
+            <p>And in reading the firſt of <hi>John</hi>'s Epiſtles, <hi>chap.</hi> 2. <hi>v.</hi> 1. <hi>[If any man ſin, we have an Advocate with the Father, Jeſus Chriſt the righteous]</hi> That, and other places of Scripture, have been my comfort to this preſent moment. I have ſuch comfort in my heart, that I can willingly yield up the Ghoſt. Theſe are his expreſſions, which I find in ſome of his Papers he ſent to me.</p>
+            <p>In one of my Viſits, which I made to him, I adviſed him (he ſpeaking but little) to ſet down in writing the Expe<g ref="char:EOLhyphen"/>riences he had of Gods dealings with his Soul, and ſeeing he was not like to live long here, I deſired him to ſhew his Friends the Ground or Reaſons of his hope of a bet<g ref="char:EOLhyphen"/>ter life. He harkened to this motion, and declared his willingneſs in doing what I requeſted, and at laſt ſent me ſome Manuſcripts written with his own hand.</p>
+            <pb n="8" facs="tcp:33832:8"/>
+            <p>Having given the Reader this brief Account of ſome paſſages of this poor Malefactor's Life; I ſhall in the next place from his example make ſome obſervations more par<g ref="char:EOLhyphen"/>ticular, which I heartily deſire we may wiſely improve to our ſpiritual Benefit.</p>
+            <p>
+               <hi>There is no truſt to be put in the beſt Nature or Natural Diſpoſition.</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obſ. </seg>1</label>
+            </p>
+            <p>
+               <hi>Gymer</hi> had a good Report in this reſpect; and was (as I have heard) commended as a perſon of ſobriety, and meekneſs, and readineſs to do for any that ſtood in need of his help; yet he proved at laſt a Thief and Murderer. Let a man have never ſo good a Nature, 'tis ſtill a nature tainted with ſin, and being void of true Grace in time of temptation hath no inclination or power to reſiſt the Devil. A good nature is eaſily inticed and led into evil practices: 'Tis a nature (not renewed by the Holy Spirit) attended with a hard heart, as a Peach under a ſmooth skin hath a hard ſtone: 'Tis a nature like the Sea, very calm at times, but rageth when the wind and ſtorms ariſe. 'Tis ſaid, the tame Fox doth more miſchief than a<g ref="char:EOLhyphen"/>ny other, when he gets away and runs wild. <hi>David</hi> was a good man and of an excellent Spirit, yet in time of temptation he defiles <hi>Bathſheba</hi> and killeth <hi>Uriah</hi> her Huſ<g ref="char:EOLhyphen"/>band with the Sword.
+<note place="margin">2 <hi>Sam.</hi> 11.4. 2 <hi>Sam.</hi> 12.9.</note> If a good nature ſanctified thus wickedly plays its part and acts ſo ſtrangely and cruelly too, what confidence can we put in a nature not ſeaſoned with grace? O Chriſtian! hear and give ear, your Lord hath ſpoken it [<hi>Watch and pray, that ye enter not into temp<g ref="char:EOLhyphen"/>tation,</hi> Mat. 26.41.] And again [<hi>What I ſay unto you, I ſay un<g ref="char:EOLhyphen"/>to all, watch,</hi> Mark 13.47.] <hi>Be not high minded, but fear. Let him that ſtandeth, take heed leſt he fall.</hi> Conſider ſeriouſly,
+<pb n="9" facs="tcp:33832:8"/>there are many Adverſaries, (1.) Many Devils (this lower Region is full of ſuch Monſters) that are great in power, exceeding ſubtle, and make it their buſineſs to deceive and deſtroy immortal Souls. (2.) Your own heart is de<g ref="char:EOLhyphen"/>ceitful above meaſure, and deſperately wicked, very prone to turn aſide and comply with the Enemy. And (3.) Very wiſe and holy perſons have fallen down wounded in Con<g ref="char:EOLhyphen"/>ſcience before this Enemy, and hardly recovered their peace with God a long time after.</p>
+            <p>Keep thy heart therefore with all diligence: ſtudy the frame and conſtitution of thy own mind, and labour to un<g ref="char:EOLhyphen"/>derſtand where thy weakneſs moſt lies, and where the Tempter is moſt likely to prevail.</p>
+            <p>Watch againſt the occaſions, and firſt ſproutings of ſin, and pray in good earneſt <hi>[Lord, lead me not into tempta<g ref="char:EOLhyphen"/>tion, but deliver me from evil.]</hi>
+            </p>
+            <p>
+               <hi>A man may pray, and do many commendable good things,
+<label type="milestone">
+                     <seg type="milestoneunit">Obſ. </seg>2</label> and yet afterwards fall into very vile and abominable ways and practices.</hi>
+            </p>
+            <p>This poor Wretch for ſome years together, did uſe to call upon God, and walk blameleſs comparatively with many others, yet at laſt he became a Lyar, a Swearer, a Sabbath-breaker; he coveted an evil Covetouſneſs, and then violently ſpilt the blood of an innocent perſon, one that had done him no harm. <hi>Herod</hi> heard <hi>John</hi> the Bap<g ref="char:EOLhyphen"/>tiſt gladly, and did many things, and yet put him to death, tho' againſt his own Conſcience, <hi>Mark</hi> 6.20, 26, 27. <hi>Judas</hi> was receiver of the Contributions that came in, and. Steward, to lay out upon occaſion,
+<note place="margin">Vines <hi>on the</hi> Sacrament. p. 59, 60.</note> but being not faith<g ref="char:EOLhyphen"/>ful to his truſt, he is called a Thief, <hi>John</hi> 12.6. And tho' he retained to ſuch a Maſter, and was a Teacher and Preacher of heavenly Doctrine, yet he proceeds higher,
+<pb n="10" facs="tcp:33832:9"/>and of a Thief be comes a Traytor, <hi>Luke</hi> 22.4, 6. He con<g ref="char:EOLhyphen"/>ceived this ſin, and travelled with it, and with no better preparation comes to the Paſſover. After the Sop Satan enters into him, <hi>John</hi> 13.27. And now, as the Devil would have it, he ſells that Blood (ſaith that Reverend Miniſter of Chriſt) which ſhould have been ſprinkled on his Door-poſts. This is a fearful Example, ſaith he, to all that after ſuch a Preſident dare venture upon a Sacra<g ref="char:EOLhyphen"/>crament, to which they come with purpoſe to go on in thoſe ſins they bring to it.</p>
+            <p>I queſtion not but there are, who daily ſay their prayers, and yet the Devil puts them upon hating thoſe ways, which their Conſcience tells them, are the beſt, and to do evil to thoſe perſons that would willingly do them good, and help them forward in the way of Life. And tho' they pray for grace to walk in the ways of God, yet their prayers being without Faith unfeigned and ſeriouſneſs, Satan ſtill prevails, and puts them upon chuſing thoſe ways, the end whereof is death and damnation. <hi>Gymer</hi> told me, he prayed that Lord's-day morning (tho' but coldly, as he afterwards obſerved) before he went forth: Yet neither the conſide<g ref="char:EOLhyphen"/>ration of the God he prayed to, nor of the day he com<g ref="char:EOLhyphen"/>manded to be kept holy, did reſtrain him from the com<g ref="char:EOLhyphen"/>mitting of thoſe hainous crimes.</p>
+            <p>Reader, if thou truly deſireſt to profit by this Example, make conſcience of praying continually, but take heed of reſting in formal, cold and lazy prayers. Prayer is but one means, and as 'tis to be followed with care and dili<g ref="char:EOLhyphen"/>gence in order to the preſervation of the inward man; ſo it is to be joyned with the uſe of other means of Chriſt's appointment. We muſt watch as well as pray, and put our truſt in the Lord, as well as offer the Sacrifices of righte<g ref="char:EOLhyphen"/>ouſneſs, <hi>Pſal.</hi> 4.5. The total forbearance of food in a few days, doth ordinarily bring forth death; and the giving
+<pb n="11" facs="tcp:33832:9"/>Nature leſs than it requires weakens; but if you give it its due, yet other means are to be uſed (as apparel, exerciſe, reſt, fire, air, water) for the maintaining of the Body in health and well-being. Thus we muſt pray, and read the Word of God, and hear it Preacht, and put on Chriſt by Faith for the ſtrengthening of our Soul; and put on the whole Ar<g ref="char:EOLhyphen"/>mour of God, that we may be able to ſtand againſt the wiles of the Devil, <hi>Epheſ.</hi> 6.11.</p>
+            <p>
+               <hi>Temptations to vileſt and moſt deteſtable deeds beſet unwary ſin<g ref="char:EOLhyphen"/>ners on a ſudden, yet uſually they prevail by degrees.</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obſer. </seg>3</label>
+            </p>
+            <p>
+               <hi>Gymer</hi> little thought of being led into ſuch Temptations, or of yielding to them, when he went forth to his Maſters Houſe: Nay, if you will believe him, he thought nothing, had no deſign of Committing thoſe crimes, for which he dyed, half an hour before he was guilty of them. But one ſin made way for another: He had yielded for ſome time to the ſin of Lying, and ſometimes Swearing, and then to Sabbath-breaking; and having not truly repented of theſe ſins, the Devil gets ground and grows ſtronger and ſtrong<g ref="char:EOLhyphen"/>er upon him, and evil motions ſuggeſted, being not re<g ref="char:EOLhyphen"/>ſiſted, but admitted and dallied withal, overcome him. <hi>Every man is tempted, when he is drawn away of his own luſt; then when luſt hath conceived it bringeth forth ſin, and ſin, when it is finiſhed, bringeth forth death,</hi> Jam. 1.14, 15. If we provide for the fleſh, our prayers will but little a<g ref="char:EOLhyphen"/>vail and help us againſt the fulfilling of the luſts of it.</p>
+            <p>Remember, <hi>Friend,</hi> into whoſe hands theſe papers come; while thou warreſt againſt that wicked one, thou ſtandeſt on ſlippery ground; thou fighteſt (as it were) with a burden upon thy Back, and thy Enemy hath this Advantage a<g ref="char:EOLhyphen"/>gainſt thee, in that he is inviſible, and hath alſo a party within thee, whom he too eaſily perſuades, and inticeth
+<pb n="12" facs="tcp:33832:10"/>to joyn with him againſt thy Soul. <hi>Be ſober, be vigilant, and pray without ceaſing;</hi> and when he ſhoots in his fiery<g ref="char:EOLhyphen"/>darts, hold up the Sword of the Spirit, and the ſhield of Faith, and lift up a cry to him, who is the hope and help of his <hi>Iſrael,</hi> and never yield conſent; if thou conſent not, he may diſturb thee a while, but cannot conquer. 'Tis written for thy encouragement [<hi>Submit your ſelves there<g ref="char:EOLhyphen"/>fore to God, who giveth grace to the humble. Reſiſt the De<g ref="char:EOLhyphen"/>vil, and he ſhall flee from you,</hi> Jam. 4.6, 7.</p>
+            <p>
+               <hi>God will have mercy on whom he will have mercy;
+<label type="milestone">
+                     <seg type="milestoneunit">Obſer. </seg>4</label> and ſuch as have much forgiven do love much, and do more than others:</hi>
+            </p>
+            <p>So did that wicked Woman (call'd a ſinner, <hi>Luk.</hi> 7.37.) who forſaking all other Lovers,
+<note place="margin">
+                  <hi>Luke</hi> 7.47.</note> inquires after Chriſt, and knowing where he was, makes bold to enter in without the <hi>Phariſsee</hi> Invitation: She expreſſeth her love in waſh<g ref="char:EOLhyphen"/>ing his feet with her tears, and wiping them with the hair of her head; her heart runs out at her eyes, as it were, ſaying, <hi>Alas my Lord, that ever I ſhould do as I have done!</hi> O wonderful! that ever thou ſhouldſt admit ſuch a wretch as I am to come into thy preſence: Sinners notorious for lewdneſs and vile practices have come to themſelves and returned unto their Heavenly Father, and have proved wonders to themſelves and others, and Eminent examples of redeeming time and glorifying the Lord in bringing forth much fruit, and much more than many hundred, that make ſome profeſſion of Religion do.</p>
+            <p>O what a difference doth grace make between a bare Profeſſor and a real Convert! What a glorious change is made in the Heart and Life of a true Penitent?</p>
+            <p>What difference was there between <hi>Gymer</hi> when firſt impriſoned, and the ſame man after at his apprehenſion at <hi>Yarmouth?</hi> At firſt his heart is ſhut up, and he openeth not his mouth to give glory to God in Confeſſion; and
+<pb n="13" facs="tcp:33832:10"/>then he play'd at Cards, and complied with his Fellow-Priſoners in doing as they did, tho' his Conſcience grum<g ref="char:EOLhyphen"/>bled at it, and rebuked him for it: afterward he ingeni<g ref="char:EOLhyphen"/>ouſly confeſſeth his wickedneſs, and all comes out freely; he humbles himſelf greatly, as <hi>Manitaſſch</hi> did in his afflicti<g ref="char:EOLhyphen"/>on, 2 <hi>Chron.</hi> 33.12. <hi>He is a man of ſorrow, and is ſolicitous about the ſtate of his Soul.</hi> Now his eyes being open, his heart is affected and he is thankful to God that he was taken and did not eſcape the hand of the purſuers. Now he is much taken with the wiſdom and goodneſs of God in bringing him to Repentance, in ſuch a way, and giving him a ſpace of repentance. He now ſets upon the work in good earneſt, and help comes in, and he bleſſeth the Divine Majeſty of Heaven for exciting and ſtirring up the ſpirit of divers of his Servants, both Miniſters and others, to aſſiſt him by their prayers and inſtructions.</p>
+            <p>
+               <hi>Sinners that have gone on with an high hand in bloody and de<g ref="char:EOLhyphen"/>ceitful ways, tho' the Lord give pardon upon repentance,
+<label type="milestone">
+                     <seg type="milestoneunit">Obſer. </seg>5</label> yet he uſually takes vengeance on their inventions.</hi>
+            </p>
+            <p>I read of one <hi>Waſoraw</hi> a Gentleman,
+<note place="margin">
+                  <hi>See</hi> fulfill<g ref="char:EOLhyphen"/>ing of Scripture. <hi>p.</hi> 488.</note> who was one who took delight in making difference between men, and he ſtirr'd up a Neighbour Gentleman, to kill another, and finding him troubled in mind about the murder commit<g ref="char:EOLhyphen"/>ted, he told him, more of that practice would be the beſt cure: For he himſelf had killed ſix, and at firſt he was much diſquieted, but the longer it continued, it became the more eaſy. But one day he riding to a place, where two were to decide a quarrel by fighting, his Horſe ſtum<g ref="char:EOLhyphen"/>bles on the ſide of a ſteep Rock, and he falls a great way down, his Sword falling out before him, yet without a<g ref="char:EOLhyphen"/>ny hurt. Upon this the Lord brake in upon his conſcience, ſo that he turns home with great trouble and remorſe, and a moſt kindly change follows thereupon, and for ſome years after, he manifeſted much tenderneſs and repentance
+<pb n="14" facs="tcp:33832:11"/>He ſpent much time alone in mourning before his de ath and that day he dyed, he was heard in his Chamber wraſt<g ref="char:EOLhyphen"/>ling in prayer, and after long continuance they of the houſe knocking at the door, and getting no anſwer, brake it open, and find him dead upon his knees, and the whole blood of his body, which from every paſſage had iſſued out, ſwimming about him on the floor.</p>
+            <p>Tho' men may neglect doing of juſtice, yet Divine Juſtice will not ſpare the murderer, tho' upon his repentance God will remember his Soul in mercy. The ſhedder of man's blood ſometimes eſcapes the Juſtice of man, but the righ<g ref="char:EOLhyphen"/>teous Lord of Heaven and earth will not let him go unpu<g ref="char:EOLhyphen"/>niſhed: tho' he pardon the truly penitent ſinner, yet he declares to the world the abhorrency of his ſin. And thus he did deal with <hi>David,</hi> 2 <hi>Sam.</hi> 12.9, 10.13, 14.</p>
+            <p>And thus he dealt alſo with this poor Malefactor, we treat of, he ſet his ſins in array againſt him, which as a Lyon did ſorely bruiſe and wound his Conſcience. He tells us (in writing) of tumultuous thoughts, that he had in ſecret about his condition without Chriſt, and conſider<g ref="char:EOLhyphen"/>ing, ſaith he, how Satan hath betrayed me, and led me from one ſin to another, God was pleaſed to make me ſenſible of my ſins, and I was ready to deſpair of any mercy. But in reading thoſe words of <hi>Iſaiah chap.</hi> 1.8. <hi>[Come now and let us reaſon together, ſaith the Lord, tho' your ſins be as ſcarlet, they ſhall be as white as ſnow, tho' they be red like Crimſon, they ſhall be as Wool.]</hi> And upon the thoughts of <hi>Mary Magdalen</hi> (whoſe wickedneſs was great, yet upon her repentance ſhe obtained pardon) I had comfort. But many other times I have been almoſt diſtracted for fear God would not accept of ſuch a vile wretch as I am. But then I thought of the Thief on the Croſs, and put up many prayers, and have been again refreſhed.</p>
+            <p>
+               <hi>And as he was under deep dejection of Spirit,
+<label type="milestone">
+                     <seg type="milestoneunit">Obſer. </seg>6</label> ſo afterwards
+<pb n="15" facs="tcp:33832:11"/>he was ſweetly lifted up.</hi> As his afflictions abounded, ſo did his Conſolations in the free and preciouspromiſes: His comfort ariſing from his hope in the word was ſo ſtrong and ſteady, that for ſome Months before he dyed, he fear<g ref="char:EOLhyphen"/>ed not death, no not that kind of death he expected to die, but rather greatly deſired it. O, ſaith he,
+<note place="margin">
+                  <hi>Pſal.</hi> 55.6.</note> that I had the wings of a Dove! The time ſeemed long to him, till he came to his reſt He declined not in the leaſt the ſtroke of death, but that he might be ſure to die, he confeſt himſelf guilty three times upon his Inditement and Ar<g ref="char:EOLhyphen"/>raignment at the Bar. There could be no poſitive evi<g ref="char:EOLhyphen"/>dence produced againſt him; but by his own Confeſſion he ſaved the Judge and Jury the trouble of a Tryal. I askt him afterwards, whether he were ſatisfied in his ſo doing, and his anſwer was, very well.</p>
+            <p>He writ to his Wife, that his ſins had ſo troubled his conſcience, that if every limb of his Body had a ſeveral ſoul or life, he would willingly yield up all to make reſtitution for the ſorrow and ſhame he had brought her unto: But all being not able to do it, he deſired of God ſo to ſanctifie the affliction, that it might be a bleſſed Inſtrument to purge her from the vain conceits of the pleaſures of this life. I know, ſaith he, our bleſſed Saviour liveth, who ſuffered and died for us, and that he hath great compaſſion towards thoſe, who would gladly follow him, tho' it be through ſufferings. He deſires above all things, that he and all his Friends might be made like to him in meekneſs and patience, and entirely reſign themſelves to God's holy Will and Pleaſure, whatever their condition be.</p>
+            <p>
+               <hi>He gave diligence to make his Calling and Election ſure,
+<label type="milestone">
+                     <seg type="milestoneunit">Obſer. </seg>7</label> and the Lord crowned it with a good hope through Grace.</hi>
+            </p>
+            <p>He made it his buſineſs ſometimes by night as well as by day to make his peace with God, and his labour was not in vain: He ſought the Lord, and he heard him; He
+<pb n="16" facs="tcp:33832:12"/>asked and receive,
+<note place="margin">
+                  <hi>Pſalm</hi> 51.14, 15.</note> the remiſſion of his ſins, and his joy in the Lord upon it was his ſtrength. God did deliver him from blood-guiltineſs, and his Tongue did ſing aloud of his Righteouſneſs: The Lord did (in blotting out his great Tranſgreſſions) open his Mouth, and his Lips ſhew<g ref="char:EOLhyphen"/>ed forth his praiſe. He attained in a little time to a high<g ref="char:EOLhyphen"/>er degree of true Chriſtianity, and in the Kingdom of God (which conſiſts in Righteouſneſs, and Peace, and Joy in the Holy Ghoſt) than many Profeſſors of long ſtanding (as they have gone to work) could ever reach or attain unto. He longed for his dying day, and to go to Chriſt, tho' it were by the Gallows. He told me, that way of dying did not diſmay or terrifie him: He rather wiſht it as the deſert of his heinous Crimes, than feared it. He lived a ſweet and comfortable Life, eſpecially towards his latter end. When I enquired, how 'twas with him, his uſual anſwer was, I find comfort in ſeeking God; and would often ſay, Never better: And ſo, I underſtand, he ſaid in the Morning before his Execution <hi>[Never better.]</hi>
+            </p>
+            <p>He gave glory to God in taking ſhame to himſelf, and his ingenuous Confeſſion was no diſgrace to him, turned to good account, and his great advantage: He left the world and laid aſide the thoughts of Life ſome Months before he died; and in ſo doing he found God, and thereupon lived a contented and comfortable Life</p>
+            <p>
+               <hi>Comenius</hi> tell us, The Brethren of <hi>Bohemia</hi> placed the beginning, middle and end of Religion, not in diſputing, but in doing; <hi>i. e</hi> in true Converſion to God, and ſolid Faith in Chriſt. This was the way he walked in: He was like a little Child, conſiderate for nothing but ſimplicity, not coveting any thing, but the favour of God, making it his buſineſs to ſerve the Lord in Spirit and Truth, to look up to Heaven to renounce truſt in Earth, and take heed of nothing ſo much as of oftending God or Man, by
+<pb n="17" facs="tcp:33832:12"/>neglecting any duty. And being taken up with theſe things, he had learned to be content in a Priſon. He placed his Religion in the love of God, and ſtudying his love and goodneſs and in his praiſes: He was more ſolici<g ref="char:EOLhyphen"/>tous about his duty to God, than about his dealings with him, as knowing he would do all things well; and he ſo lived as one devoted to his ſervice: He ſeemed to under<g ref="char:EOLhyphen"/>ſtand wherein the height of a Chriſtian Life, and the greateſt part of his duty conſiſted, <hi>viz</hi> in love to Chriſt, and delight in him, and thankful and cheerful obedience to his Will. God call'd him to a thankful acceptance of Chriſt, that made ſatisfaction for his ſins, and enabled him to proceed in a ſweet compliance with the Will of the Redeemer he believed in</p>
+            <p>One while I feared (as I told him) his reſting on prayer and duties, inſtead of truſting in Chriſt the only Foun<g ref="char:EOLhyphen"/>dation, he muſt build upon: But as I found, he was thro' Grace diſpoſed not only to hear, but alſo to follow the directions that were given to him; ſo I ſee reaſon to hope he hearkened to his caution and counſel, as he did in other particulars, which I obſerved.</p>
+            <p>In one of my Viſits, I askt him whether he could ſing, and would joyn with us in ſinging a Pſalm? He conſent<g ref="char:EOLhyphen"/>ed to the motion, and did accordingly, and afterwards ſeemed much to delight in that heavenly exerciſe to the laſt, ſinging heartily as unto the Lord. He determined before-hand, that on the morning before he came forth to ſuffer, he would read the 12th chapter of <hi>Iſaiah,</hi> and ſo he did, and read alſo the 40th chapter of the ſame Pro<g ref="char:EOLhyphen"/>phet; and alſo <hi>Pſal.</hi> 46. and ſang part of the 33d <hi>Pſalm;</hi> and after his withdrawing a while to pray with his fel<g ref="char:EOLhyphen"/>low-ſuffer, he came forth again, and put on his dying-clothes, and took his leave of the Priſoners cheerfully, ſhaking them by the hand.</p>
+            <pb n="18" facs="tcp:33832:13"/>
+            <p>In the Grand-Jury Chamber earneſt prayers were poured out for him, and the other that ſuffered with him, who would not confeſs he was acceſſory to the murder of the Child, he was condemned for. God ſtirred up the heart of divers Miniſters to go to him, to inſtruct and ex<g ref="char:EOLhyphen"/>hort him, and to be fervent in Spirit while they prayed for him; And I have grounds to hope, God heard their cries.</p>
+            <p>
+               <hi>He was much concerned for the Souls of others.</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obſer. </seg>8</label>
+            </p>
+            <p>He did often read to, and pray with the Priſoners. He told a Friend, the hardneſs of his fellow-ſufferers heart had made him ſhed many tears. He often was alone ſpending his time in reading, thinking and praying, and at times prayed with the Priſoners that would joyn with him. Ha<g ref="char:EOLhyphen"/>ving obtained Grace, he was willing to communicate it in the beſt manner he could.</p>
+            <p>He writ a Letter to the Father of the Maid he mur<g ref="char:EOLhyphen"/>dered, wherein he confeſt, whatever Charge he loaded him with, it was ſtill far leſs than his grievous Crime, and yet (he tells him) there was no proportion between his Crime and the Infinite Mercy of God. But what comfort is in this (ſaith he) if I have no ſhare in it?</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>I am told, there is mercy with God for me, and that one way to it lies by your Door. To you therefore I come in meekneſs of ſpirit, beſeeching you for God's ſake, to forgive your ſhare, and ſo to forgive, as to be<g ref="char:EOLhyphen"/>come an earneſt Suitor for my pardon from God. Had every Limb of my Body a ſeveral living Soul, I ſhould willingly yield all up as a Sacrifice to Legal Ju<g ref="char:EOLhyphen"/>ſtice: But the Divine Wrath muſt be appeaſed; and mer<g ref="char:EOLhyphen"/>cy obtained by a better Sacrifice, and that is the Blood, the moſt precious Blood of the Son of God our Saviour
+<pb n="19" facs="tcp:33832:13"/>Jeſus Chriſt: This Blood is the only Medicine of Blood<g ref="char:EOLhyphen"/>guiltineſs. Lord, waſh me from this, and I ſhall be clean: And I ſhould be in a higher degree of hope to obtain this bleſſing, could I but hear you ſay, as I hope you will to this prayer ſay, <hi>Amen;</hi> which is the moſt humble deſire of a ſorrowful Soul in Priſon,</p>
+                  <closer>
+                     <signed>William Gymer.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Some have doubted, and ſo have I, whether theſe Lines were of his own inditing and compoſure; yet I queſtion not (if the words were not) but the ſenſe was his own, and his heart was in them.</p>
+            <p>He writ alſo a Letter to his Wife (ſee <hi>p.</hi> 11, 12.) and another for his Child (as I have been told) which he ne<g ref="char:EOLhyphen"/>ver ſaw, it being but about three quarters old, for its uſe, if the Lord ſhould let it live, and give it underſtanding. He leaveth a paper alſo for others that may read it, where<g ref="char:EOLhyphen"/>in he ſeems to be much affected with the ſorrow and ſuf<g ref="char:EOLhyphen"/>ferings of Chriſt, and prays that God would take away our ſtony hearts, and give us to conſider what he ſuf<g ref="char:EOLhyphen"/>fered for us. Thou, ſaith he, whoſe property it is to have mercy, hear and have compaſſion: We commit our hearts unto Thee our God. And let us (as he addeth) O my Friends, take that due care to bring forth fruits that are meet for Repentance, <hi>Matth.</hi> 3.8.</p>
+            <p>The foundation of a holy life is true Repentance, and where that is, we may believe, there is remiſſion of ſins, and eternal life ſucceeds. O then, let us not put off our Repentance from day to day, for to morrow is none of ours. O let us repent to day, for the day is at hand, when we muſt render an account not only for one day, but for our whole life. Let us truly call upon God, that he would turn his face from our ſins, and pray unto him, that our ſins may depart from us: For ſin is the diſtemper of the Soul,
+<pb n="20" facs="tcp:33832:14"/>which moved <hi>David</hi> to cry out [<hi>Heal my Soul, for I have ſinned againſt thee,</hi> Pſal. 41.4] Let us call upon God, that he would not caſt us away from his preſence, but reſtore unto us the joy of his ſalvation, <hi>Pſal.</hi> 51.12. O let us not count calamity and puniſhment evil, for many times good proceedeth from them: Nay, they may be called good, becauſe they are God's Meſſengers, and proceed from him, who is the Fountain of all good: Moreover, they lead us unto the chiefeſt Happineſs, which is life everlaſting: For Chriſt by his Paſſion entred into his glory, and Chri<g ref="char:EOLhyphen"/>ſtians by tribulation enter into the Kingdom of God, <hi>Acts</hi> 14.22. O then, let us count nothing evil but ſin, becauſe it draws us from that which is good: The Sinner is ac<g ref="char:EOLhyphen"/>cuſed by his Conſcience, which he hath defiled, by his Creator whom he hath offended, and by the ſins he hath committed. Let us beg of God, that he would grant us Grace to repent, and endeavour to make our Calling and Election ſure</p>
+            <p>My Friends, I leave theſe Lines behind me, heartily deſiring you to avoid all ſin, and to avoid Lying, which I believe to be the fore-runner of other ſins. <hi>So<g ref="char:EOLhyphen"/>lomon</hi> bids us,
+<note place="margin">
+                  <hi>Prov.</hi> 23.23.</note> buy the Truth, but doth not tell us what it muſt coſt, becauſe we muſt get it, tho' it be never ſo dear: We muſt love Truth both ſhining and ſcorching.</p>
+            <p>Thus he writes, and thus he ſpent part of that ſpace of time given him for Repentance, and owned ſcorching Truth in a free confeſſion of thoſe Crimes, which he knew would coſt him his life. He admoniſhed ſuch as came to ſee him, to take heed of Lying and Sabbath<g ref="char:EOLhyphen"/>breaking and let him, ſaith he, that ſtandeth, take heed leſt he fall: For I little thought or intended to commit thoſe grievous Crimes I am guilty of half an hour be<g ref="char:EOLhyphen"/>fore the commiſſion of them. And then he burſt out in<g ref="char:EOLhyphen"/>to tears.</p>
+            <pb n="21" facs="tcp:33832:14"/>
+            <p>He was frequent in Prayer with Thankſgiving. I do confeſs, ſaith he, it might be but Juſtice in thee to damn my Soul, but, O Lord, I pray thee in Juſtice re<g ref="char:EOLhyphen"/>member Mercy, and in thine Infinite Mercy pardon me. 'Tis dreadful to loſe the Body, but O how much dread<g ref="char:EOLhyphen"/>ful to loſe the Soul to all Eternity! Let my Soul praiſe thy Name for what thou haſt done for me: For I hope, and do believe, thou haſt been at work upon my Soul in helping me to repent, for which I give thee hearty thanks, and am deſirous to be moſt humble under the ſenſe of my ſins, for they are very dreadful to me.</p>
+            <p>As he prayed, ſo his prayers were mixed with Faithand a humble confidence: He would tell me, he had comfort in God upon his praying: He often found the Lord ready to give what he asked, and more ready to receive the con<g ref="char:EOLhyphen"/>trite in heart, into favour (as he acknowledged) then they to offer themſelves by unfeigned Repentance.</p>
+            <p>Prayer was the employ, in which he ſpent much of his time, and he heartily deſired the earneſt prayers of Mini<g ref="char:EOLhyphen"/>ſters, and all good and pious Chriſtians, that he might grow more and more in the knowledge of our Lord and Saviour Jeſus Chriſt; and many were put up for him. The great mercies of God made his heart glad, and the Company of thoſe, who came to inſtruct and help him forward in the way of Life, was very acceptable to him, and he would entreat them to come again, and not leave him while he was in the Land of the Living. His words were but few, but his ingenious Confeſſion and meek Con<g ref="char:EOLhyphen"/>verſation, and his Works that declared his unfeigned Repentance, won the hearts of many to him. His Wife told me, he writ twice a week to her.</p>
+            <pb n="22" facs="tcp:33832:15"/>
+            <p>In his laſt Letter to her he writeth thus,
+<floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>My Dear Love,</salute>
+                     </opener>
+                     <p>
+                        <hi>THIS being the laſt Letter that ever I ſhall write; I write to you to look to your Eternal Stat, aend to prepare for it before it be too late, which is my hearty prayer to Almighty God, that you ſhould ſo do, and that you may not be found as ſome I once read of, who cryed out</hi> [O miſerable Souls that we are! How hath ſin and the world blinded and bewitched us, that we could not ſee our condition before it was too late?] <hi>God hath kept me in the thoughts of death for ſome time. Once I thought my ſelf juſt at the Graves ſide, but he that laid me down was pleaſed to lift me up again. But now he ſeems to be ſpeedily finiſhing my days; to whom through the infinite mercy of Jeſus Chriſt, I call with ſome com<g ref="char:EOLhyphen"/>fort and boldneſs, ſaying.</hi> Come Lord Jeſus, come quickly. <hi>And ſo farewel my Friends and Relations; farewel eating and drinking; and I hope within a few days to ſay, Farewel ſin and ſinning. And,</hi> My dear, <hi>I commend you and my poor Babe to him, who hath promiſed,</hi> To be a Father to the Fatherleſs, and to plead the cauſe of the Widow. <hi>And ſo I earneſtly deſire you to put your whole Truſt and Confidence in him, who hath promiſed all them that ſo do, never to leave them nor forſake them; Which God Almighty grant he never may, for the ſake of his dear Son Chriſt Jeſus our only Saviour and Re<g ref="char:EOLhyphen"/>deemer, into whoſe hands I commit you all, bidding You and all the World adieu.</hi>
+                        <note place="margin">
+                           <hi>VVhich may be added to thoſe he ſpake on the Ladder, mentioned in the</hi> E<g ref="char:EOLhyphen"/>piſtle.</note>
+                     </p>
+                  </body>
+               </floatingText>
+            </p>
+            <p>At laſt he concludeth his life with theſe words (as may be ſeen in one of his Papers.)</p>
+            <q>I reſign up my Spirit moſt chearfully into the hands of God, hoping to find mercy with him through Chriſt. I know no other
+<pb n="23" facs="tcp:33832:15"/>name under Heaven, whereby I may be ſaved, but his alone, who was dead, and is alive again and liveth for evermore. And there<g ref="char:EOLhyphen"/>fore I am confident of his moſt precious promiſes which I believe to be faithful and true (as he is) for pardon and immortal Life. Therefore I beſeech him to accept of my moſt hearty thanks for his great mercy ſhewn unto me, hoping he will receive me into the Company of Spirits of Just Men made perfect, to give him thanks for ever And as I deſire to find mercy with him ſo I forgive all mine Enemies, beſeeching God to forgive them, and to bleſs and comfort all my Friends, that at laſt we may live together in everlaſting life.—</q>
+            <p>From the whole of this Narrative and Diſcourſe we may learn,</p>
+            <p n="1">1. To deſpair of none, tho' never ſo ignorant and un<g ref="char:EOLhyphen"/>godly, but while the ſinner is on this ſide the Grave, let us uſe the means of Divine appointment. It is the good pleaſure of the Almighty here and there, to cull out from among the Children of men, the chief of ſinners. Some<g ref="char:EOLhyphen"/>times he lays hold upon the moſt unlikely, and draws them by his Spirit to his Son: Sometimes he calleth the deformed and moſt deſpicable, and hath a time of love for them: Sometimes he rectifies by his Grace, ſuch as are of as crooked a Nature, as is in Nature to be found, and renewes in them a right Spirit: Sometimes he (who ſweareth by himſelf, that he hath no pleaſure in the death of the wicked, but rather that he return from his evil ways and live) turneth the heart of a Swearer, a Lyar, a Thief and Murderer, to mind his Salvation in good ear<g ref="char:EOLhyphen"/>neſt. O the unfathomable depth of goodneſs and mercy of the moſt High and Holy One of <hi>Iſrael!</hi> I have more than once or twice read of ſuch as have cryed out in the ſenſe of Superabounding Grace <hi>[Let none deſpair of the worſt of ſinners for our ſake.]</hi>
+            </p>
+            <p n="2">2. Let not any dare to preſume in a courſe of ſin becauſe
+<pb n="24" facs="tcp:33832:16"/>God is gracious. His mercy is over all: but his ſpecial and ſaving mercy is bounded with his truth, and granted only to the truly penitent: If thou be a ſelf-willd wretch and reſolved to perſiſt in the way of ſinners, I pray ask leave firſt of the Great Lawgiver before thou go any fur<g ref="char:EOLhyphen"/>ther. Ah! but with what face dareſt thou beg ſuch a liberty? But if thou wilt go on without his leave, then go out of his ſight,
+<note place="margin">
+                  <hi>Jer.</hi> 23.24.</note> where he cannot ſee thee; but whither canſt thou flee from his preſence? <hi>Can any man hide himſelf in ſecret places, that I ſhall not ſee him?</hi> ſaith the Lord. <hi>Do not I fill Heaven and Earth?</hi> ſaith the Lord. He threatens preſumptuous ones that fear not his glorious and fearful Name, to make their Plagues wonderful
+<note n="*" place="margin">
+                  <hi>Deut.</hi> 28.58, 59. <hi>&amp; chap.</hi> 29.19, 20, <hi>&amp;c.</hi>
+               </note>. But if out of his unſpeakable compaſſion he plucks here and there one as fire-brands out of the fire; yet he uſual<g ref="char:EOLhyphen"/>ly makes ſuch know by ſad and bitter experience, the evil of their ways and doings, and what 'tis not to fear this glorious and fearful Name: The Lord thy God, he will wound the hairy ſcalp of thoſe that go on in their wick<g ref="char:EOLhyphen"/>edneſs; and tho he healeth ſome, whom he ſeeth walk<g ref="char:EOLhyphen"/>ing in deſtructive ways, yet ordinarily he lays the foun<g ref="char:EOLhyphen"/>dation of the cure in trouble and anguiſh of ſpirit, and deep diſtreſs of mind.</p>
+            <p n="3">3. Let us bleſs the Lord with our Soul, who leadeth captivity captive, and makes a Thief and Murderer happy, in turning to him, and ſets him up as a monument of his ſtupendous Grace, that we may behold and wonder. Our Converts are ſo few and rare among thoſe that walk at liberty, that it cannot but be lookt upon as a ſingular Ex<g ref="char:EOLhyphen"/>ample of rich and ſpecial grace, when we can find but one among thoſe that are bound in Fetters, truly converted. Fiſhers of men, that have not the liberty to caſt their Net in the broad Waters; or if they have, find little ſucceſs; are glad to ſee what they can get in the narrow Straights.
+<pb n="25" facs="tcp:33832:16"/>And if they can get but one Soul, they count the gain more worth abundantly, than all their toil and labour.</p>
+            <p>Some heretofore have ranſackt Priſons to rake out ſuch wretches as they found willing to ſwear againſt their own Conſciences to ruine others: But it's more refreſhing to a Servant of Chriſt, to find out one, that will ſpeak the Truth in his heart, and from his heart, tho' it be againſt his own life: One, that confeſt and gave glory to God; one, that prayed much, and obtained great Faith (greater than is found among many of a long ſtanding in the pro<g ref="char:EOLhyphen"/>feſſion of the true Religion) and loved much, becauſe much was forgiven, and his conſolations thereupon were not ſmall.</p>
+            <p>That wicked one at firſt prevailed with him, but the good Spirit at laſt overcame the Devil. Greater is he, ſaith the Holy Apoſtle, that is in you, than he that is in the World.
+<note place="margin">1 <hi>Joh.</hi> 4.4.</note> The bleſſed Spirit inclined and enabled him to repent of his Evil Works, and Wickedneſs, but Satan could not make him repent of his ceaſing to do evil; he was not able by force or fraud, to make him repent of his Repentance, or of the forſaking of his ſins, or of his doing works meet for Repentance.</p>
+            <p>Converting Grace is the Sinners reſcue and deliverance from the God of this World, and Chriſt's ſubduing his ini<g ref="char:EOLhyphen"/>quities. Henceforth,</p>
+            <p n="1">(1. The ſincere Convert is one bleſſed of the Lord with all ſpiritual bleſſings: He is one of the number of the Fa<g ref="char:EOLhyphen"/>ther's peculiar ones, one among Chriſt's Brethren and Friends, one in whom his Holy Spirit abideth: He is one that hath the mark of God's Election upon him, and the ſeed of everlaſting Love in him, that will never die, nor leave him, till it ſpring up to Eternal Life.</p>
+            <p>A ſincere Convert was once a Prodigal, that had waſted all and brought himſelf to a ſtarving condition but now he
+<pb n="26" facs="tcp:33832:17"/>is come to himſelf, and returned to his Father, humbly confeſſing his Folly and Wickedneſs and is made welcom: He was as one wounded, and lying in the High Way in his blood and Filth, but now he is healed, cleanſed and revived. Should you ſee a Chriſtian among the Turks uſed like a Horſe or a Dog, would not ſuch a ſight make your bowels yearn towards him? Why a poor Unconver<g ref="char:EOLhyphen"/>ted Wretch hath worſe uſage from the Devil, and ought we not then to pity him greatly and pray for him heartily? But if afterwards we find this ſinner ſet at liberty, &amp; among his Friends, and kindly uſed, we may well ſay to ſuch a one, <hi>O Friend, the World is well amended with you; Bleſſed be the Lord, who hath dealt thus wondrouſly with you.</hi>
+            </p>
+            <p n="2">(2.) A ſincere Convert, whatever his condition be in the World, in what Degree or Quality ſoever he ſtands a<g ref="char:EOLhyphen"/>mong Men, is a bleſſing. Converted Souls are the Glory and Treaſure of the Church; the Riches of the World; the Subſtance of any Land or Nation, <hi>Iſa.</hi> 6.13. As good Corn in the Field is the Husband-Mans Subſtance, and not the gay Weeds: Theſe are the Pillars of the Earth, or as the Stones under Ground, which ſupport the ſtately ſtructure, which thoſe parts which ſeem more glorious, do not.</p>
+            <p n="3">(3.) God is greatly to be praiſed for the converſion of any poor Soul.
+<note place="margin">
+                  <hi>Act.</hi> 11.18.</note> The <hi>Theſſalonians</hi> being turned from Idols, to the Service of the Living and True God; the Apoſtle tells them [<hi>We give thanks to God always for you all,</hi> 1 Theſ. 1.2.] and that he and other Saints were bound ſo to do, 2 <hi>Theſ.</hi> 1.3. <hi>God be thanked,</hi> ſaith he to the <hi>Romans, that ye were the ſervants of ſin</hi> (but not now) <hi>but have obeyed from the heart that form of ſound Doctrine, where<g ref="char:EOLhyphen"/>to ye were delivered,</hi> Rom. 6.17. He glorified the Holy One, for turning the ungodly from their iniquities, and the Churches glorified God in his Converſion, <hi>Gal. c.</hi> 1. <hi>ver.</hi> 22, 23, 24. One Sinner that repenteth, refreſheth the
+<pb n="27" facs="tcp:33832:17"/>heart of Saints on Earth, and cauſeth joy in the preſence of the Angels in Heaven, <hi>Luke</hi> 15.10.</p>
+            <p>Thus under many infirmities it hath pleaſed the Almighty to put me upon improving that little ſpare time he hath given me from other Employment, in ſetting down a few things of many concerning this poor Malefactor: In which Diſcourſe, tho' ſome Circumſtances be omitted, and others not ſo exactly related as ſome might expect, yet for the ſubſtance, I dare ſay, the truth is here delivered.</p>
+            <p>I heartily deſired, this might have been done by a better hand; but ſeeing none would engage in this ſervice, I, the leaſt of all, and moſt unworthy of any of Chriſt's Servants, have ventured to caſt my mite, ſuch as it is, into the Treaſury. The good Lord accept it in his Son, and make it uſeful to ſome poor Soul for his Name ſake.</p>
+            <closer>
+               <dateline>
+                  <date>Octob. 23. 1696.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:33832:18"/>
+            <head>A Catalogue of Books Printed for, and are to be ſold by <hi>Ed<g ref="char:EOLhyphen"/>ward Giles</hi> Bookseller in <hi>Norwich,</hi> near the Market-place.</head>
+            <p>SEveral Diſcourſes concerning Actual Providence.</p>
+            <p>A Word in Seaſon.</p>
+            <p>Defenſive Armour againſt four of Satans moſt Fiery Darts.</p>
+            <p>Sermons upon the whole firſt and ſecond Chapters of the <hi>Canticles.</hi>
+            </p>
+            <p>Thirteen Sermons upon ſeveral Uſeful Subjects.</p>
+            <p>The Happineſs of Brethren dwelling together in Unity. All pub<g ref="char:EOLhyphen"/>liſhed by <hi>John Collings,</hi> D. D. of <hi>Norwich.</hi>
+            </p>
+            <p>The Way of the Spirit in bringing Souls to Chriſt.</p>
+            <p>The Glory of Chriſt ſet forth, with the Neceſſity of Faith, in ſe<g ref="char:EOLhyphen"/>veral Sermons; both by Mr. <hi>Tho. Allen,</hi> late Paſtor of a Church of Chriſt at <hi>Norwich.</hi>
+            </p>
+            <p>
+               <hi>Enoch</hi>'s Walk with God, and Chriſt a Chriſtian's Gain: By Mr. <hi>Timothy Armitage,</hi> late Paſtor of a Church of Chriſt at <hi>Norwich.</hi>
+            </p>
+            <p>A Diſcourſe of the Preciouſneſs of Chriſt, and of the Preciouſneſs of Faith.</p>
+            <p>Precious Promiſes the Portion of Overcomers.</p>
+            <p>Sermons on five ſeveral Uſeful Subjects: All by Mr. <hi>John Lougher,</hi> Miniſter in <hi>Norfolk.</hi>
+            </p>
+            <p>The Saints <hi>Ebenezer:</hi> By Mr. <hi>Francis Engliſh,</hi> late Miniſter in <hi>Norwich.</hi>
+            </p>
+            <p>Directions to Spell Engliſh right.</p>
+            <p>The Hiſtory of the Proteſtant Reformation, as it was begun by <hi>Luther.</hi>
+            </p>
+            <p>The Dead Saints Speaking; being a Sermon Preached upon the Death of Mr. <hi>Newcomb,</hi> of <hi>Dedham</hi> in <hi>Eſſex.</hi>
+            </p>
+            <p>The Engliſh Presbyterian.</p>
+            <p>The Miracles of Chriſt.</p>
+            <p>The Ordinary Matter of Prayer drawn into Queſtions and Anſwers.</p>
+            <p>Two Treatiſes; the firſt of, Rejoycing in the Lord Jeſus in all Caſes and Conditions. The ſecond, Of a Chriſtian's Hope in Hea<g ref="char:EOLhyphen"/>ven, and Freedom from Condemnation by Chriſt. Both by Mr. <hi>Ro<g ref="char:EOLhyphen"/>bert Aſty,</hi> late Miniſter of Jeſus Chriſt in <hi>Norwich.</hi>
+            </p>
+            <p>Obedience to Magiſtrates recommended, in a Sermon Preached <hi>Sept.</hi> 9. 1683. By <hi>Jonathan Clapham,</hi> Rector of <hi>VVramplingham</hi> in <hi>Norfolk.</hi>
+            </p>
+            <p>Two Diſcourſes; one of Spiritual Bleſſings, the other, that God hath an high account of the leaſt Grace in the Saints: By Mr. <hi>John Cromwell,</hi> late Paſtor of a Church of Chriſt in <hi>Norwich.</hi> Infant</p>
+            <pb facs="tcp:33832:18"/>
+         </div>
+      </back>
+   </text>
+</TEI>
